@@ -1,0 +1,20 @@
+{"level":"error","message":"[antiCrash] :: Unhandled Rejection/Catch","p":{},"reason":{},"timestamp":"2024-03-21T16:34:59.000Z"}
+{"level":"error","message":"[antiCrash] :: Unhandled Rejection/Catch","p":{},"reason":{},"timestamp":"2024-03-21T16:38:27.300Z"}
+{"err":{},"level":"error","message":"[antiCrash] :: Uncaught Exception/Catch (MONITOR)","origin":"uncaughtException","timestamp":"2024-04-06T17:58:09.352Z"}
+{"err":{},"level":"error","message":"[antiCrash] :: Uncaught Exception/Catch (MONITOR)","origin":"uncaughtException","timestamp":"2024-04-06T18:04:13.082Z"}
+{"err":{},"level":"error","message":"[antiCrash] :: Uncaught Exception/Catch (MONITOR)","origin":"uncaughtException","timestamp":"2024-04-06T18:18:17.957Z"}
+{"level":"error","message":"[antiCrash] :: Unhandled Rejection/Catch","p":{},"reason":{},"timestamp":"2024-04-06T18:30:29.599Z"}
+{"err":{},"level":"error","message":"[antiCrash] :: Uncaught Exception/Catch (MONITOR)","origin":"uncaughtException","timestamp":"2024-04-07T14:08:35.423Z"}
+{"err":{},"level":"error","message":"[antiCrash] :: Uncaught Exception/Catch (MONITOR)","origin":"uncaughtException","timestamp":"2024-04-07T19:59:38.297Z"}
+{"level":"error","message":"[antiCrash] :: Unhandled Rejection/Catch","p":{},"reason":{},"timestamp":"2024-04-08T06:13:34.173Z"}
+{"err":{},"level":"error","message":"[antiCrash] :: Uncaught Exception/Catch (MONITOR)","origin":"uncaughtException","timestamp":"2024-04-08T06:15:28.952Z"}
+{"err":{},"level":"error","message":"[antiCrash] :: Uncaught Exception/Catch (MONITOR)","origin":"uncaughtException","timestamp":"2024-04-08T06:17:18.926Z"}
+{"err":{},"level":"error","message":"[antiCrash] :: Uncaught Exception/Catch (MONITOR)","origin":"uncaughtException","timestamp":"2024-04-08T06:18:00.848Z"}
+{"level":"error","message":"[antiCrash] :: Unhandled Rejection/Catch","p":{},"reason":{},"timestamp":"2024-04-08T06:19:32.936Z"}
+{"err":{},"level":"error","message":"[antiCrash] :: Uncaught Exception/Catch (MONITOR)","origin":"uncaughtException","timestamp":"2024-04-08T06:24:41.038Z"}
+{"level":"error","message":"[antiCrash] :: Unhandled Rejection/Catch","p":{},"reason":{},"timestamp":"2024-04-08T06:35:20.806Z"}
+{"level":"error","message":"[antiCrash] :: Unhandled Rejection/Catch","p":{},"reason":{},"timestamp":"2024-04-08T06:41:01.557Z"}
+{"err":{},"level":"error","message":"[antiCrash] :: Uncaught Exception/Catch (MONITOR)","origin":"uncaughtException","timestamp":"2024-04-08T16:24:54.440Z"}
+{"err":{},"level":"error","message":"[antiCrash] :: Uncaught Exception/Catch (MONITOR)","origin":"uncaughtException","timestamp":"2024-04-09T22:15:25.626Z"}
+{"err":{},"level":"error","message":"[antiCrash] :: Uncaught Exception/Catch (MONITOR)","origin":"uncaughtException","timestamp":"2024-04-22T16:43:46.673Z"}
+{"err":{},"level":"error","message":"[antiCrash] :: Uncaught Exception/Catch (MONITOR)","origin":"uncaughtException","timestamp":"2024-05-03T20:33:58.141Z"}
